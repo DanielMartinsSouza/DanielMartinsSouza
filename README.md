@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F5FF0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Daniel+Martins+de+Souza;Tenho+22+anos;Ciências+da+Computação-UNIP+em+dezembro+2023;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Daniel+Martins+de+Souza;Tenho+22+anos;Ciência+da+Computação-UNIP+em+dezembro+2023;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 	Formado em Ciência da Computação em dezembro de 2023. Apaixonado por desenvolvimento!
